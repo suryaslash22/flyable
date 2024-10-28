@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "amadeus": "^10.1.0",
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "vue2-datepicker": "^3.11.1",
+    "vuetify": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/vue2-datepicker": "^3.3.6",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "vuetify-loader": "^1.7.0"
+  }
+}
