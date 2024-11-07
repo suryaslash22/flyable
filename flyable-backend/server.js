@@ -5,7 +5,6 @@ const express = require('express');
 const Amadeus = require('amadeus');
 const cors = require('cors');
 const { data } = require('jquery');
-// const axios = require('axios'); // Import axios for making API requests
 
 const app = express();
 const port = process.env.PORT || 5000;
